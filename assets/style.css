@@ -96,6 +96,10 @@ body {
 .gallery .nav {
   justify-content: center;
 }
+
+.nav-link {
+  cursor: pointer;
+}
 .nav-pills .nav-link.active,
 .nav-pills .show > .nav-link {
   color: black;
