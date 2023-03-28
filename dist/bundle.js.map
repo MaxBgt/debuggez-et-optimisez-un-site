@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": ["../assets/script.min.js"],
+  "sourcesContent": ["$(document).ready(function () {\r\n  $(\".gallery\").mauGallery({\r\n    columns: { xs: 1, sm: 2, md: 3, lg: 3, xl: 3 },\r\n    lightBox: !0,\r\n    lightboxId: \"myAwesomeLightbox\",\r\n    showTags: !0,\r\n    tagsPosition: \"top\",\r\n  });\r\n});\r\n"],
+  "mappings": "MAAA,EAAE,QAAQ,EAAE,MAAM,UAAY,CAC5B,EAAE,UAAU,EAAE,WAAW,CACvB,QAAS,CAAE,GAAI,EAAG,GAAI,EAAG,GAAI,EAAG,GAAI,EAAG,GAAI,CAAE,EAC7C,SAAU,GACV,WAAY,oBACZ,SAAU,GACV,aAAc,KAChB,CAAC,CACH,CAAC",
+  "names": []
+}
