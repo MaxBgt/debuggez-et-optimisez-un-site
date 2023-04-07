@@ -1,7 +1,0 @@
-{
-  "version": 3,
-  "sources": ["../assets/script.min.js"],
-  "sourcesContent": ["$(document).ready(function(){$(\".gallery\").mauGallery({columns:{xs:1,sm:2,md:3,lg:3,xl:3},lightBox:!0,lightboxId:\"myAwesomeLightbox\",showTags:!0,tagsPosition:\"top\"})});"],
-  "mappings": "MAAA,EAAE,QAAQ,EAAE,MAAM,UAAU,CAAC,EAAE,UAAU,EAAE,WAAW,CAAC,QAAQ,CAAC,GAAG,EAAE,GAAG,EAAE,GAAG,EAAE,GAAG,EAAE,GAAG,CAAC,EAAE,SAAS,GAAG,WAAW,oBAAoB,SAAS,GAAG,aAAa,KAAK,CAAC,CAAC,CAAC",
-  "names": []
-}
